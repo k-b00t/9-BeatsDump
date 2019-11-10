@@ -1,0 +1,12 @@
+.trackListContainer
+{
+    margin: 7vh 0 10vh 0;
+}
+
+.cardTrack
+{
+    padding-top:12px;
+    width: 100%;
+    max-width: 800px;
+    cursor: pointer;
+}

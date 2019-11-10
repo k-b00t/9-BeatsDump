@@ -1,0 +1,18 @@
+<header>
+    <nav class="navbar navbar-expand-md d-flex justify-content-between mx-3" style='background-color:transparent;'>
+        <img src="../../../assets/BeatsDumpLogo2.png" class='logoImg' (click)='redirectHome()'>
+        <p><i class="fas fa-search iconSearch" data-toggle="modal" data-target="#searchModal"></i></p>
+        <div class="modal fade mt-5" id="searchModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog d-flex justify-content-center" role="document">
+                <div class='modal-content border-0 p-0 m-0'>
+                    <form class="form-inline w-100" style='background-color:transparent;'>
+                        <input id='inputSearch' class="form-control bdSuperDark" type="text" placeholder="Enter artist or album" aria-label="Search" autocomplete="off">
+                        <button id='buttonSearch' class="btn" type="submit" data-dismiss="modal" (click)='search($event)'>
+                            <i class="fas fa-search" data-toggle="modal" data-target="#searchModal"></i>
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>

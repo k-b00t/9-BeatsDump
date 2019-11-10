@@ -1,0 +1,8 @@
+<div class='containerViewAlbum'>
+    <app-nav-bar></app-nav-bar>
+    <div class='container'>
+        <app-album-info *ngIf="getterView() === true"></app-album-info>
+        <app-track-list *ngIf="getterView() === true"></app-track-list>
+        <app-music-player *ngIf="getterView() === true"></app-music-player>
+    </div>
+</div>

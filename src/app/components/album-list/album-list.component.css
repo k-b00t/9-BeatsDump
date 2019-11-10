@@ -1,0 +1,19 @@
+#artistImage
+{
+    width:100%;
+    max-width:500px;
+    height:auto;
+    border-radius: 50%;
+}
+
+.albumContainer
+{
+    margin-top: 5vh;
+}
+
+.albumImage
+{
+    width: 100%;
+    height: auto;
+    cursor: pointer;
+}

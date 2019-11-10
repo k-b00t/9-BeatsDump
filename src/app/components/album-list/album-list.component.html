@@ -1,0 +1,7 @@
+<div class='row albumContainer'>
+    <div class='col-lg-3 col-md-4 col-12' *ngFor='let album of _data.cache.album; let i = index' title='{{album.title}}'>
+        <div class='mt-5'>
+            <img class='albumImage' src='{{album.image}}' alt='' (click)='getAlbumTracks(i)'>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,8 @@
+<div class='row trackListContainer'>
+    <div class='col-12 d-flex justify-content-center' *ngFor='let track of _data.cache.album[_data.cache.current.album].trackList'>
+        <div class='cardTrack d-flex justify-content-between' (click)='setCurrentTrack(track.track)'>
+            <h5 class='text-light text-justify'>{{ track.title }}</h5>
+            <h5 class='text-light text-justify'>{{ getDurationTrak(track.duration) }}</h5>
+        </div>
+    </div>
+</div>

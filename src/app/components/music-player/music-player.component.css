@@ -1,0 +1,23 @@
+.container-audio {
+    position:fixed;
+    bottom:0px;
+    left:0px;
+    width: 100%;
+    height: auto;
+    padding: 0 20px 20px 20px;
+    background-color: #0c0117;
+    color: #eee;
+    overflow: hidden;
+}
+
+audio
+{
+    display:block;
+    width:90%;
+    margin:auto;
+}
+
+audio:focus
+{
+    outline: none;
+}

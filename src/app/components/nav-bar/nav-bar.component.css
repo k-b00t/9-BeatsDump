@@ -1,0 +1,63 @@
+.bdSuperDark {
+    color: #ccc;
+    background-color: #0c0117;
+    border: 1px solid #ccc;
+}
+.bdSuperDark:focus {
+    color: #ccc;
+    background-color: #0c0117;
+    border: 1px solid #ccc;
+    outline:none;
+    box-shadow: none;
+}
+
+.logoImg {
+    width: 200px;
+    height:auto;
+    cursor: pointer;
+}
+
+.iconSearch{
+    margin-top:5px;
+    font-size: 1.7em;
+    color: #ccc;
+    cursor: pointer;
+}
+
+#inputSearch {
+    width:80%;
+    color: #ccc;
+    border: 1px solid #ccc;
+    text-align: center;
+    transition: 150ms;
+}
+
+#inputSearch:hover {
+    box-shadow: 0 0 5px 5px rgba(255, 255, 0, 0.479);
+}
+
+#inputSearch:focus {
+    border: 1px solid #ccc;
+    box-shadow: 0 0 5px 5px rgba(255, 255, 0, 0.479);
+    outline: none;
+}
+
+#buttonSearch {
+    width:20%;
+    color: #333;
+    background-color: rgb(255, 217, 0);
+    border: 1px solid #ccc;
+    transition: 150ms;
+  }
+  
+  #buttonSearch:hover {
+    color: #ccc;
+    background-color: #0c0117;
+    box-shadow: 0 0 5px 5px rgba(255, 255, 0, 0.479);
+  
+  }
+  
+  #buttonSearch:focus {
+    border: 1px solid #ccc;
+    outline: none;
+  }

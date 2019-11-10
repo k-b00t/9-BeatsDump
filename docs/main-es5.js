@@ -973,7 +973,8 @@
                             ready: false,
                         }
                     };
-                    this.proxy = "http://34.244.31.95:3000/";
+                    // this.proxy = `http://34.244.31.95:3000/`;
+                    this.proxy = "";
                     this.url = "https://api.deezer.com/search?q=";
                 }
                 ;

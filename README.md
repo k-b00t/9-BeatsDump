@@ -2,7 +2,7 @@
 
 This is a PoC made by a Full Stack Web Development student. It is an example of using deezer's public api. It is basically an online music player.
 
-![](https://github.com/k-b00t/9-StereoOnline/blob/master/src/assets/Screenshot.png)
+![](https://github.com/k-b00t/9-BeatsDump/blob/master/src/assets/Screenshot.png)
 
 ## How to use:
 

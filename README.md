@@ -2,15 +2,15 @@
 
 This is a PoC made by a Full Stack Web Development student. It is an example of using deezer's public api. It is basically an online music player.
 
-![](https://github.com/k-b00t/9-StereoOnline/blob/master/src/assets/Screenshot.png)
+![](https://github.com/k-b00t/9-BeatsDump/blob/master/src/assets/Screenshot.png)
 
 ## How to use:
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+- This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
+- Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+- To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 
 

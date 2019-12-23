@@ -4,7 +4,7 @@ This is a PoC made by a Full Stack Web Development student. It is an example of 
 
 ![](https://github.com/k-b00t/9-BeatsDump/blob/master/src/assets/Screenshot.png)
 
-[Live Demo here](https://k-b00t.github.io/9-BeatsDump/.)
+[Live Demo here](https://k-b00t.github.io/BeatsDump-Angular-/.)
 
 ## How to use:
 
